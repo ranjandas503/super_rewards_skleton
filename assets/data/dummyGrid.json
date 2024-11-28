@@ -1,0 +1,98 @@
+[
+    {
+      "icon": "Icons.shopping_bag",
+      "title": "Shop",
+      "coupon": "10% Off"
+    },
+    {
+      "icon": "Icons.restaurant",
+      "title": "Dine",
+      "coupon": "50% Off"
+    },
+    {
+      "icon": "Icons.flight",
+      "title": "Travel",
+      "coupon": "20% Off"
+    },
+    {
+      "icon": "Icons.music_note",
+      "title": "Concerts",
+      "coupon": "Free Entry"
+    },
+    {
+      "icon": "Icons.camera_alt",
+      "title": "Photography",
+      "coupon": "30% Off"
+    },
+    {
+      "icon": "Icons.directions_run",
+      "title": "Fitness",
+      "coupon": "15% Off"
+    },
+    {
+      "icon": "Icons.local_movies",
+      "title": "Movies",
+      "coupon": "Buy 1 Get 1"
+    },
+    {
+      "icon": "Icons.local_offer",
+      "title": "Deals",
+      "coupon": "Save Big"
+    },
+    {
+      "icon": "Icons.girl",
+      "title": "Beauty",
+      "coupon": "20% Off"
+    },
+    {
+      "icon": "Icons.local_bar",
+      "title": "Nightlife",
+      "coupon": "Free Drink"
+    },
+    {
+      "icon": "Icons.fastfood",
+      "title": "Food",
+      "coupon": "25% Off"
+    },
+    {
+      "icon": "Icons.shopping_cart",
+      "title": "Grocery",
+      "coupon": "Free Delivery"
+    },
+    {
+      "icon": "Icons.book",
+      "title": "Books",
+      "coupon": "Buy 2 Get 1"
+    },
+    {
+      "icon": "Icons.directions_bike",
+      "title": "Sports",
+      "coupon": "10% Off"
+    },
+    {
+      "icon": "Icons.home",
+      "title": "Home",
+      "coupon": "20% Off"
+    },
+    {
+      "icon": "Icons.headset",
+      "title": "Music",
+      "coupon": "Stream Free"
+    },
+    {
+      "icon": "Icons.local_cafe",
+      "title": "Café",
+      "coupon": "BOGO"
+    },
+    {
+      "icon": "Icons.beach_access",
+      "title": "Vacation",
+      "coupon": "50% Off"
+    },
+    {
+      "icon": "Icons.pets",
+      "title": "Pets",
+      "coupon": "15% Off"
+    }
+  ]
+  
