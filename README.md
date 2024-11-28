@@ -1,20 +1,22 @@
 # Super rewards project Screenshots
 
 ### Splash Screen
-![Screenshot_1732794692](https://github.com/user-attachments/assets/afc2e3b2-ebd1-4e8e-8c2e-742b8e666c45)
+![Screenshot_1732795344](https://github.com/user-attachments/assets/2fad49e4-d38f-4302-9c89-4b24a1ebad7c)
+
 
 ## Login screen
-![Screenshot_1732794695](https://github.com/user-attachments/assets/5f05c7e4-a5ed-42a6-b529-724f8f940ba4)
+![Screenshot_1732795353](https://github.com/user-attachments/assets/b6ccd563-888c-42e6-ab98-5c33901a83bf)
 
-![Screenshot_1732794706](https://github.com/user-attachments/assets/1326dc79-6d2c-4413-b561-a7afe6410bf0)
-
-![Screenshot_1732794723](https://github.com/user-attachments/assets/2223ee82-7d96-4321-90b2-ae644c31f613)
+## Login Screen with errors
+![Screenshot_1732795358](https://github.com/user-attachments/assets/b5af7e9b-38f4-41d0-b765-62c259d90fec)
 
 ## Home Screen
-![Screenshot_1732794726](https://github.com/user-attachments/assets/d32b153d-0518-4baf-8737-a9bda66429ba)
-![Screenshot_1732794758](https://github.com/user-attachments/assets/fe258180-dc0c-4846-a1f8-2be844969bea)
+![Screenshot_1732795429](https://github.com/user-attachments/assets/f7ccebfc-1cbc-4532-ad94-95f64581dae6)
+![Screenshot_1732795435](https://github.com/user-attachments/assets/a74ea923-a646-4e88-8fc0-68afa5873988)
+
 
 ## Reddem code screen
-![Screenshot_1732794737](https://github.com/user-attachments/assets/e6795b26-e500-42e6-becb-016382792ef5)
-![Screenshot_1732794743](https://github.com/user-attachments/assets/111ab20a-f38f-4717-87e0-814f45dce0fe)
+![Screenshot_1732795437](https://github.com/user-attachments/assets/5e4e2db2-50ab-4b33-b5cf-362a94c1836e)
+![Screenshot_1732795451](https://github.com/user-attachments/assets/fc5f4c0c-46f4-40c7-bf40-af4f078d38f1)
+
 
